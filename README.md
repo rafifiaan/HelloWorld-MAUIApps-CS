@@ -3,11 +3,12 @@ Created with `Visual Studio 2022` & .NET MAUI Templates
 
 - User Interface :
 
-![UI-MAUI]()
+<img src="img/UI%20-%20MAUI.png" alt="UI-MAUI" width="300" height="450">
+
 
 - Project Demonstration (In *Bahasa*) :
 
-Visit on : **[OnGoing]()**  
+Visit on : **[Rafi's Blogspot](https://rafifiaan-if.blogspot.com/2023/10/tugas-5-net-maui-mobile-apps.html)**  
 
 </br>
 
